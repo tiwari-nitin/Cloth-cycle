@@ -1,9 +1,11 @@
 # Cloth-cycle
 
-This project is built with:
+Live at: https://clothcycle-reuse-now.lovable.app/
 
+This project is built with:
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
+- SupaBase DB
